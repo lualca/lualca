@@ -42,3 +42,6 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+[submodule "GST/lualca"]
+	path = GST/lualca
+	url = git@gitlab.freyi.es:odoo/luanca

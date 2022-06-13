@@ -44,4 +44,4 @@
 	branch = 14.0
 [submodule "GST/lualca"]
 	path = GST/lualca
-	url = git@gitlab.freyi.es:odoo/luanca
+	url = git@gitlab.freyi.es:odoo/luanca.git
